@@ -1,4 +1,4 @@
-# 🧩  (Supermicro)
+# 🧩  Excel Compatibility Converter
 *Tool to help to mass convert xls file to xlsx.*
 
 ---
