@@ -1,8 +1,19 @@
+# 🧩  (Supermicro)
+*Tool to help to mass convert xls file to xlsx.*
 
-### Excel Converter
+---
 
-**Description:** Helper script which if a file is downloaded as a xls file instead of a xlsx file, will convert multiple files at the same time from a xls to a xlsx file.
+## 📘 Overview
+This script is used as a tool for converting multiple xls files into xlsx within a designated folder. Assigns a folder as the convert space and goes through each file checking if it is a xls.
 
-**<u> Files: </u>**
+---
 
-- excelConverter.py
+## ⚙️ Features
+- ✅ Automatically converts xlsx to xlsx
+
+---
+
+## 🧰 Requirements
+- Windows 10 or later  
+- Python 3.13+  
+- Microsoft Excel (for COM automation) 
